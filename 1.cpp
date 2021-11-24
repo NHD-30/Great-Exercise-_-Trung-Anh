@@ -5,4 +5,5 @@ int main()
 {
     cout << "haha";
     cout << "hihi";
+    cout << "ahihi";
 }
